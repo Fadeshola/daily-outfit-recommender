@@ -1,0 +1,501 @@
+UserId,Weather,Clothing,Rating
+1,Humid,Button-down shirt,2.5
+1,Cloudy,Sweatshirt,3.3
+1,Humid,Button-down shirt,3.5
+1,Windy,Long-sleeve shirt,3.9
+1,Sunny,T-shirt,3.2
+1,Rainy,Track pants,3.4
+1,Windy,Hoodie,4.4
+1,Humid,Cargo pants,3.1
+1,Snowy,Blazer,3.2
+1,Sunny,Henley,4.0
+2,Cloudy,Blazer,2.7
+2,Cloudy,Button-down shirt,3.1
+2,Sunny,Windbreaker,3.3
+2,Windy,Blazer,3.7
+2,Humid,Joggers,3.3
+2,Snowy,Long-sleeve shirt,3.6
+2,Humid,Windbreaker,2.9
+2,Humid,Long-sleeve shirt,2.1
+2,Rainy,Cardigan,4.0
+2,Rainy,Button-down shirt,3.1
+3,Snowy,Windbreaker,3.2
+3,Cloudy,Hoodie,4.5
+3,Humid,Long-sleeve shirt,2.9
+3,Rainy,Cargo pants,4.0
+3,Rainy,Joggers,2.8
+3,Humid,Cargo pants,2.8
+3,Cloudy,Tank top,2.3
+3,Sunny,Coat,1.6
+3,Sunny,Hoodie,3.3
+3,Windy,Coat,3.8
+4,Snowy,Jeans,4.8
+4,Humid,Joggers,2.7
+4,Rainy,Sweatshirt,4.0
+4,Windy,Blazer,3.6
+4,Snowy,Jeans,3.7
+4,Rainy,Track pants,3.2
+4,Sunny,Button-down shirt,3.2
+4,Rainy,Chinos,3.7
+4,Snowy,Jeans,4.2
+4,Snowy,Track pants,3.4
+5,Windy,T-shirt,3.0
+5,Sunny,Cargo pants,4.1
+5,Humid,Coat,1.2
+5,Snowy,Henley,3.2
+5,Humid,Blazer,3.9
+5,Rainy,Track pants,3.9
+5,Humid,Cardigan,4.2
+5,Windy,Hoodie,3.3
+5,Rainy,Cargo pants,4.4
+5,Windy,T-shirt,2.9
+6,Snowy,T-shirt,1.2
+6,Cloudy,Cardigan,3.4
+6,Rainy,Long-sleeve shirt,3.1
+6,Snowy,Long-sleeve shirt,4.5
+6,Windy,Polo,2.7
+6,Snowy,Cargo pants,2.7
+6,Windy,Chinos,4.4
+6,Windy,Hoodie,4.4
+6,Snowy,Windbreaker,3.7
+6,Windy,Joggers,2.7
+7,Rainy,Long-sleeve shirt,3.5
+7,Windy,Cargo pants,3.3
+7,Rainy,T-shirt,2.1
+7,Humid,Tank top,3.8
+7,Sunny,Coat,1.1
+7,Rainy,Blazer,3.0
+7,Rainy,Cargo pants,2.8
+7,Windy,Shorts,2.4
+7,Snowy,Chinos,2.8
+7,Sunny,Chinos,3.5
+8,Snowy,Joggers,4.2
+8,Sunny,Button-down shirt,3.1
+8,Humid,Coat,2.2
+8,Sunny,Sweatshirt,1.8
+8,Windy,Joggers,2.7
+8,Rainy,Blazer,2.7
+8,Sunny,Joggers,3.6
+8,Windy,Button-down shirt,2.6
+8,Windy,T-shirt,3.5
+8,Rainy,Henley,3.1
+9,Snowy,Hoodie,4.8
+9,Sunny,Henley,3.6
+9,Snowy,Blazer,3.4
+9,Snowy,Cardigan,3.6
+9,Humid,Cargo pants,3.5
+9,Snowy,Polo,2.4
+9,Rainy,Tank top,1.9
+9,Windy,Tank top,2.6
+9,Sunny,Tank top,4.4
+9,Windy,Track pants,3.2
+10,Windy,Long-sleeve shirt,4.3
+10,Sunny,Long-sleeve shirt,3.4
+10,Rainy,Jeans,3.2
+10,Windy,Sweatshirt,4.4
+10,Sunny,Long-sleeve shirt,2.8
+10,Windy,Track pants,3.5
+10,Cloudy,Hoodie,4.5
+10,Cloudy,Sweatshirt,3.4
+10,Rainy,Cardigan,3.2
+10,Sunny,T-shirt,3.9
+11,Windy,Button-down shirt,2.6
+11,Rainy,Track pants,2.9
+11,Cloudy,Long-sleeve shirt,4.8
+11,Cloudy,Cardigan,3.2
+11,Windy,Cardigan,3.4
+11,Humid,Track pants,2.5
+11,Windy,Cardigan,3.9
+11,Sunny,Polo,3.9
+11,Sunny,Cargo pants,3.2
+11,Cloudy,Hoodie,4.6
+12,Rainy,Blazer,2.8
+12,Cloudy,Tank top,2.1
+12,Snowy,Blazer,2.1
+12,Cloudy,Polo,4.0
+12,Cloudy,Henley,4.1
+12,Windy,Chinos,3.8
+12,Sunny,Long-sleeve shirt,3.9
+12,Humid,Polo,3.8
+12,Cloudy,Cargo pants,3.2
+12,Rainy,Tank top,1.5
+13,Sunny,Windbreaker,2.3
+13,Rainy,Button-down shirt,3.0
+13,Windy,Chinos,4.5
+13,Humid,Polo,4.4
+13,Rainy,Henley,4.0
+13,Rainy,Chinos,2.5
+13,Humid,Coat,2.2
+13,Snowy,Sweatshirt,3.9
+13,Humid,Button-down shirt,3.1
+13,Sunny,Shorts,3.8
+14,Snowy,Windbreaker,3.5
+14,Rainy,Sweatshirt,2.5
+14,Rainy,Jeans,3.5
+14,Sunny,Blazer,2.5
+14,Windy,Jeans,4.0
+14,Windy,Coat,4.9
+14,Sunny,Blazer,2.3
+14,Cloudy,Tank top,2.2
+14,Snowy,Windbreaker,4.1
+14,Cloudy,Chinos,3.9
+15,Windy,Button-down shirt,3.1
+15,Windy,Hoodie,3.5
+15,Humid,Chinos,2.5
+15,Windy,Hoodie,3.7
+15,Sunny,Coat,1.9
+15,Humid,Button-down shirt,3.6
+15,Cloudy,Track pants,3.5
+15,Snowy,Coat,4.4
+15,Cloudy,Cargo pants,3.2
+15,Snowy,Jeans,4.4
+16,Rainy,Cardigan,3.1
+16,Sunny,Cardigan,2.4
+16,Snowy,Coat,4.5
+16,Snowy,Hoodie,4.3
+16,Humid,Henley,3.5
+16,Cloudy,Track pants,4.0
+16,Windy,Coat,3.6
+16,Rainy,Cardigan,2.8
+16,Rainy,Polo,2.5
+16,Rainy,Shorts,1.9
+17,Sunny,Joggers,2.8
+17,Humid,Hoodie,2.9
+17,Snowy,Shorts,1.4
+17,Rainy,T-shirt,3.8
+17,Sunny,Chinos,3.3
+17,Humid,Track pants,3.2
+17,Windy,Sweatshirt,4.9
+17,Sunny,Joggers,2.3
+17,Snowy,Track pants,4.5
+17,Windy,Coat,4.9
+18,Snowy,Track pants,3.6
+18,Windy,Joggers,3.8
+18,Humid,Shorts,3.7
+18,Rainy,Blazer,3.1
+18,Windy,Shorts,2.9
+18,Cloudy,Joggers,3.1
+18,Cloudy,Sweatshirt,3.4
+18,Cloudy,Cargo pants,3.1
+18,Rainy,Sweatshirt,3.3
+18,Rainy,Hoodie,3.1
+19,Snowy,Coat,4.5
+19,Snowy,Tank top,1.2
+19,Snowy,Jeans,4.8
+19,Windy,T-shirt,3.3
+19,Windy,Jeans,3.7
+19,Cloudy,Cardigan,4.1
+19,Snowy,Cargo pants,3.6
+19,Windy,Sweatshirt,4.2
+19,Cloudy,Chinos,3.7
+19,Snowy,Coat,4.7
+20,Snowy,Henley,3.8
+20,Rainy,Cargo pants,2.6
+20,Snowy,T-shirt,1.2
+20,Snowy,Polo,3.7
+20,Rainy,Tank top,1.4
+20,Cloudy,Hoodie,4.2
+20,Cloudy,Jeans,3.6
+20,Snowy,Blazer,3.3
+20,Snowy,T-shirt,2.5
+20,Sunny,Windbreaker,2.3
+21,Sunny,Tank top,4.6
+21,Rainy,Hoodie,4.7
+21,Windy,Polo,2.9
+21,Snowy,Button-down shirt,3.3
+21,Rainy,Joggers,3.4
+21,Cloudy,Henley,3.9
+21,Humid,Button-down shirt,3.7
+21,Rainy,Cardigan,2.7
+21,Sunny,Cardigan,2.9
+21,Snowy,Jeans,4.9
+22,Rainy,Long-sleeve shirt,3.9
+22,Humid,Sweatshirt,1.7
+22,Cloudy,Button-down shirt,4.2
+22,Windy,Tank top,2.0
+22,Snowy,Windbreaker,3.1
+22,Humid,Coat,1.0
+22,Snowy,Shorts,1.1
+22,Cloudy,Joggers,4.1
+22,Snowy,Henley,3.6
+22,Humid,Blazer,3.2
+23,Windy,Shorts,2.7
+23,Humid,Blazer,2.6
+23,Rainy,Long-sleeve shirt,3.4
+23,Snowy,Sweatshirt,4.6
+23,Windy,Jeans,3.5
+23,Snowy,Coat,4.2
+23,Rainy,Windbreaker,4.8
+23,Cloudy,Blazer,3.8
+23,Humid,Blazer,3.1
+23,Windy,Hoodie,3.2
+24,Humid,Chinos,3.5
+24,Rainy,Shorts,2.0
+24,Snowy,Joggers,4.1
+24,Sunny,Cardigan,2.3
+24,Humid,Sweatshirt,2.0
+24,Windy,Windbreaker,4.5
+24,Windy,Windbreaker,4.4
+24,Humid,Cargo pants,3.0
+24,Humid,Joggers,2.9
+24,Cloudy,Sweatshirt,3.2
+25,Rainy,Coat,3.7
+25,Windy,Henley,3.3
+25,Humid,Shorts,3.4
+25,Windy,Track pants,3.9
+25,Sunny,Hoodie,2.1
+25,Cloudy,Henley,3.5
+25,Humid,Cargo pants,2.7
+25,Sunny,Tank top,4.3
+25,Humid,Polo,4.0
+25,Snowy,Button-down shirt,3.8
+26,Windy,Cardigan,3.2
+26,Snowy,Coat,4.2
+26,Sunny,Blazer,3.4
+26,Snowy,Button-down shirt,3.7
+26,Snowy,Shorts,1.1
+26,Humid,Tank top,3.7
+26,Windy,Cardigan,2.6
+26,Rainy,Button-down shirt,3.3
+26,Snowy,Sweatshirt,4.7
+26,Snowy,Joggers,4.3
+27,Cloudy,Chinos,3.5
+27,Windy,Tank top,2.4
+27,Humid,Button-down shirt,3.9
+27,Rainy,Hoodie,3.5
+27,Sunny,Henley,3.4
+27,Windy,Long-sleeve shirt,3.2
+27,Snowy,Joggers,3.9
+27,Snowy,Cardigan,3.0
+27,Cloudy,Cardigan,4.1
+27,Snowy,Long-sleeve shirt,3.9
+28,Cloudy,Hoodie,4.1
+28,Windy,Sweatshirt,4.5
+28,Cloudy,Polo,3.1
+28,Rainy,Cardigan,3.4
+28,Windy,Cardigan,3.2
+28,Snowy,Cardigan,4.0
+28,Cloudy,Track pants,3.8
+28,Snowy,Long-sleeve shirt,3.7
+28,Snowy,Coat,4.6
+28,Sunny,Long-sleeve shirt,2.5
+29,Humid,T-shirt,4.5
+29,Humid,Blazer,3.2
+29,Rainy,Shorts,1.8
+29,Snowy,Blazer,2.3
+29,Windy,Chinos,4.0
+29,Snowy,Long-sleeve shirt,3.4
+29,Snowy,Coat,4.3
+29,Sunny,Henley,3.5
+29,Humid,Shorts,3.4
+29,Snowy,Cargo pants,2.6
+30,Sunny,Coat,1.4
+30,Sunny,Jeans,4.2
+30,Sunny,Cargo pants,3.7
+30,Sunny,Hoodie,2.5
+30,Windy,Shorts,2.9
+30,Sunny,Hoodie,2.0
+30,Rainy,Cardigan,3.2
+30,Humid,Shorts,3.2
+30,Humid,Sweatshirt,2.6
+30,Cloudy,Cargo pants,3.0
+31,Snowy,Long-sleeve shirt,2.9
+31,Sunny,Joggers,3.9
+31,Humid,Polo,3.7
+31,Humid,Cardigan,3.5
+31,Cloudy,Chinos,4.3
+31,Snowy,Sweatshirt,4.2
+31,Rainy,Jeans,3.3
+31,Windy,Track pants,4.1
+31,Rainy,Long-sleeve shirt,3.4
+31,Snowy,Coat,4.9
+32,Windy,Blazer,3.7
+32,Cloudy,Cardigan,4.3
+32,Windy,Shorts,3.3
+32,Snowy,Cargo pants,3.2
+32,Cloudy,Cargo pants,4.1
+32,Snowy,Joggers,4.4
+32,Rainy,Sweatshirt,3.6
+32,Rainy,Chinos,2.6
+32,Humid,Shorts,4.1
+32,Snowy,Jeans,5.0
+33,Humid,Polo,3.7
+33,Sunny,Polo,4.3
+33,Windy,Coat,4.8
+33,Snowy,Button-down shirt,3.3
+33,Snowy,T-shirt,2.4
+33,Snowy,Polo,2.1
+33,Cloudy,Coat,3.9
+33,Snowy,Long-sleeve shirt,4.2
+33,Humid,Cargo pants,3.1
+33,Cloudy,Shorts,3.8
+34,Sunny,Long-sleeve shirt,2.5
+34,Humid,Cardigan,4.5
+34,Humid,Long-sleeve shirt,2.7
+34,Sunny,Button-down shirt,3.7
+34,Humid,Cardigan,4.3
+34,Sunny,Coat,2.2
+34,Cloudy,Windbreaker,3.6
+34,Rainy,Sweatshirt,3.6
+34,Windy,Henley,3.3
+34,Sunny,Jeans,3.7
+35,Rainy,Shorts,2.4
+35,Rainy,Sweatshirt,3.4
+35,Cloudy,Joggers,3.4
+35,Sunny,Joggers,3.8
+35,Humid,Cargo pants,2.7
+35,Snowy,Windbreaker,4.5
+35,Cloudy,Chinos,4.0
+35,Snowy,Cardigan,3.3
+35,Snowy,Shorts,1.1
+35,Snowy,Windbreaker,3.9
+36,Humid,Cardigan,2.5
+36,Humid,Jeans,2.9
+36,Windy,Tank top,2.9
+36,Humid,Shorts,4.2
+36,Cloudy,Sweatshirt,3.9
+36,Cloudy,Sweatshirt,4.0
+36,Windy,Blazer,3.5
+36,Humid,Polo,3.9
+36,Humid,Tank top,4.0
+36,Snowy,Tank top,1.6
+37,Humid,Polo,3.1
+37,Cloudy,Coat,4.1
+37,Rainy,Hoodie,3.3
+37,Windy,Windbreaker,4.5
+37,Cloudy,Henley,3.4
+37,Snowy,Cardigan,4.1
+37,Cloudy,Button-down shirt,3.7
+37,Sunny,Polo,4.6
+37,Rainy,Jeans,4.5
+37,Windy,Windbreaker,4.1
+38,Snowy,T-shirt,1.5
+38,Sunny,Joggers,2.7
+38,Humid,Blazer,3.2
+38,Humid,Windbreaker,2.2
+38,Rainy,Shorts,1.0
+38,Windy,Coat,4.9
+38,Rainy,Long-sleeve shirt,4.0
+38,Snowy,Cardigan,4.0
+38,Sunny,Polo,3.6
+38,Sunny,Cardigan,3.5
+39,Sunny,Button-down shirt,3.4
+39,Windy,Polo,3.1
+39,Cloudy,Cargo pants,3.6
+39,Humid,Polo,4.3
+39,Humid,Button-down shirt,3.8
+39,Windy,Chinos,4.4
+39,Cloudy,Tank top,3.0
+39,Rainy,Joggers,2.9
+39,Rainy,Windbreaker,4.1
+39,Humid,Windbreaker,2.8
+40,Humid,Windbreaker,2.1
+40,Cloudy,Hoodie,5.0
+40,Snowy,Long-sleeve shirt,3.8
+40,Humid,T-shirt,3.1
+40,Cloudy,Sweatshirt,4.5
+40,Windy,Hoodie,3.1
+40,Windy,Hoodie,4.2
+40,Rainy,Coat,4.7
+40,Windy,T-shirt,2.4
+40,Rainy,Polo,3.6
+41,Rainy,Button-down shirt,3.5
+41,Sunny,Polo,3.5
+41,Rainy,Coat,3.5
+41,Cloudy,Tank top,2.2
+41,Snowy,Track pants,3.2
+41,Sunny,Shorts,4.2
+41,Cloudy,Track pants,3.9
+41,Snowy,Track pants,3.3
+41,Windy,Tank top,2.6
+41,Humid,Track pants,3.0
+42,Humid,T-shirt,3.1
+42,Snowy,Jeans,3.9
+42,Sunny,Shorts,4.6
+42,Snowy,Long-sleeve shirt,4.3
+42,Cloudy,Polo,3.1
+42,Cloudy,Cargo pants,4.1
+42,Snowy,Track pants,3.4
+42,Windy,Chinos,3.1
+42,Humid,Button-down shirt,3.8
+42,Humid,Cargo pants,3.6
+43,Rainy,Chinos,3.4
+43,Rainy,Chinos,3.2
+43,Snowy,Jeans,3.8
+43,Sunny,Coat,1.6
+43,Humid,Blazer,2.7
+43,Rainy,Shorts,1.1
+43,Sunny,Long-sleeve shirt,2.9
+43,Humid,Windbreaker,3.2
+43,Windy,Tank top,2.4
+43,Windy,Cargo pants,3.5
+44,Sunny,Chinos,3.5
+44,Humid,Chinos,4.2
+44,Humid,Tank top,5.0
+44,Windy,Cardigan,3.0
+44,Windy,Track pants,3.3
+44,Humid,Shorts,3.3
+44,Sunny,Windbreaker,3.3
+44,Cloudy,Button-down shirt,4.1
+44,Windy,Sweatshirt,4.7
+44,Windy,Cargo pants,3.0
+45,Humid,Blazer,2.1
+45,Cloudy,Cardigan,4.4
+45,Cloudy,T-shirt,2.8
+45,Rainy,Jeans,3.1
+45,Humid,T-shirt,3.1
+45,Windy,Hoodie,3.8
+45,Snowy,Coat,4.2
+45,Cloudy,Coat,4.2
+45,Windy,Long-sleeve shirt,4.3
+45,Rainy,Henley,3.6
+46,Sunny,Long-sleeve shirt,2.5
+46,Humid,Chinos,3.5
+46,Snowy,Chinos,2.9
+46,Windy,Button-down shirt,3.0
+46,Sunny,Cardigan,3.0
+46,Windy,Shorts,2.8
+46,Cloudy,Tank top,2.3
+46,Windy,Tank top,1.5
+46,Cloudy,Hoodie,4.7
+46,Cloudy,Cardigan,3.5
+47,Sunny,Shorts,4.6
+47,Rainy,Polo,3.3
+47,Humid,Sweatshirt,2.3
+47,Humid,Windbreaker,2.1
+47,Humid,Tank top,4.2
+47,Snowy,Long-sleeve shirt,4.2
+47,Windy,Chinos,3.9
+47,Humid,Chinos,3.1
+47,Snowy,T-shirt,2.9
+47,Rainy,Joggers,3.7
+48,Cloudy,Long-sleeve shirt,3.9
+48,Sunny,Sweatshirt,2.2
+48,Snowy,Track pants,3.1
+48,Cloudy,Coat,3.3
+48,Rainy,Long-sleeve shirt,3.8
+48,Sunny,Track pants,3.3
+48,Cloudy,Windbreaker,4.1
+48,Humid,Polo,3.4
+48,Rainy,Blazer,2.3
+48,Windy,Polo,3.6
+49,Humid,Long-sleeve shirt,2.3
+49,Humid,Shorts,3.7
+49,Windy,Joggers,3.5
+49,Windy,Coat,4.8
+49,Humid,Coat,1.2
+49,Sunny,Shorts,4.2
+49,Cloudy,Blazer,3.4
+49,Cloudy,Track pants,3.1
+49,Snowy,Joggers,2.6
+49,Cloudy,Cardigan,3.1
+50,Sunny,Track pants,3.1
+50,Windy,Cargo pants,4.4
+50,Humid,Tank top,4.2
+50,Windy,Hoodie,3.6
+50,Snowy,Track pants,3.2
+50,Sunny,Joggers,2.2
+50,Cloudy,Long-sleeve shirt,4.0
+50,Rainy,Tank top,1.4
+50,Snowy,Joggers,3.5
+50,Windy,Henley,3.5
