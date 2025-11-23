@@ -53,17 +53,18 @@ def load_pandas_df(
         weather_col (str): Weather column name. If None, the column will not be loaded.
         season_col (str): Season column name. If None, the column will not be loaded.
         event_col (str): Event column name. If None, the column will not be loaded.
+        material_col (str): Material column name. If None, the column will not be loaded.
 
     Returns:
         pandas.DataFrame: Outfit rating dataset.
     """
     if header is None:
-        header = [DEFAULT_USER_COL, "Weather", "Season", "Event", DEFAULT_ITEM_COL, DEFAULT_RATING_COL]
+        header = [DEFAULT_USER_COL, "Weather", "Season", "Event", "Material", DEFAULT_ITEM_COL, DEFAULT_RATING_COL]
     elif len(header) < 2:
         raise ValueError(ERROR_HEADER)
-    elif len(header) > 6:
+    elif len(header) > 7:
         warnings.warn(WARNING_OUTFIT_DATASET_HEADER)
-        header = header[:6]
+        header = header[:7]
 
     df = pd.read_csv(
         filepath,
@@ -72,8 +73,8 @@ def load_pandas_df(
     )
 
     # Convert 'rating' type to float
-    if len(header) > 5:
-        df[header[5]] = df[header[5]].astype(float)
+    if len(header) > 6:
+        df[header[6]] = df[header[6]].astype(float)
 
     return df
 

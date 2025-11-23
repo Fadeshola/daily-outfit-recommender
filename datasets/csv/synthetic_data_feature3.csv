@@ -1,0 +1,501 @@
+UserId,Weather,Season,Event,Clothing,Material,Rating
+1,Humid,Summer,Party,Button-down shirt,Cotton,2.5
+1,Cloudy,Fall,Gym,Sweatshirt,Polyester,3.3
+1,Humid,Spring,Business,Button-down shirt,Linen,3.5
+1,Windy,Spring,Home,Long-sleeve shirt,Cotton,3.9
+1,Sunny,Summer,Beach,T-shirt,Cotton,3.2
+1,Rainy,Spring,Travel,Track pants,Polyester,3.4
+1,Windy,Winter,Casual,Hoodie,Cotton,4.4
+1,Humid,Spring,Casual,Cargo pants,Polyester,3.1
+1,Snowy,Winter,Date,Blazer,Polyester,3.2
+1,Sunny,Summer,Casual,Henley,Cotton,4
+2,Cloudy,Fall,Business,Blazer,Wool,2.7
+2,Cloudy,Spring,Casual,Button-down shirt,Silk,3.1
+2,Sunny,Summer,Travel,Windbreaker,Polyester,3.3
+2,Windy,Spring,Date,Blazer,Wool,3.7
+2,Humid,Summer,Gym,Joggers,Cotton,3.3
+2,Snowy,Winter,Casual,Long-sleeve shirt,Cotton,3.6
+2,Humid,Spring,Beach,Windbreaker,Polyester,2.9
+2,Humid,Winter,Home,Long-sleeve shirt,Cotton,2.1
+2,Rainy,Spring,Casual,Cardigan,Wool,4
+2,Rainy,Fall,Casual,Button-down shirt,Cotton,3.1
+3,Snowy,Fall,Casual,Windbreaker,Polyester,3.2
+3,Cloudy,Spring,Hiking,Hoodie,Cotton,4.5
+3,Humid,Summer,Travel,Long-sleeve shirt,Cotton,2.9
+3,Rainy,Spring,Hiking,Cargo pants,Cotton,4
+3,Rainy,Summer,Gym,Joggers,Cotton,2.8
+3,Humid,Winter,Home,Cargo pants,Polyester,2.8
+3,Cloudy,Winter,Home,Tank top,Cotton,2.3
+3,Sunny,Summer,Hiking,Coat,Wool,1.6
+3,Sunny,Spring,Casual,Hoodie,Fleece,3.3
+3,Windy,Spring,Casual,Coat,Wool,3.8
+4,Snowy,Winter,Casual,Jeans,Denim,4.8
+4,Humid,Fall,Home,Joggers,Cotton,2.7
+4,Rainy,Spring,Gym,Sweatshirt,Cotton,4
+4,Windy,Spring,Casual,Blazer,Cotton,3.6
+4,Snowy,Fall,Hiking,Jeans,Cotton,3.7
+4,Rainy,Fall,Gym,Track pants,Cotton,3.2
+4,Sunny,Spring,Travel,Button-down shirt,Cotton,3.2
+4,Rainy,Fall,Date,Chinos,Cotton,3.7
+4,Snowy,Winter,Casual,Jeans,Denim,4.2
+4,Snowy,Winter,Gym,Track pants,Polyester,3.4
+5,Windy,Winter,Home,T-shirt,Cotton,3
+5,Sunny,Summer,Casual,Cargo pants,Cotton,4.1
+5,Humid,Summer,Casual,Coat,Wool,1.2
+5,Snowy,Winter,Date,Henley,Polyester,3.2
+5,Humid,Fall,Date,Blazer,Wool,3.9
+5,Rainy,Spring,Casual,Track pants,Polyester,3.9
+5,Humid,Fall,Date,Cardigan,Cotton,4.2
+5,Windy,Fall,Home,Hoodie,Fleece,3.3
+5,Rainy,Summer,Hiking,Cargo pants,Cotton,4.4
+5,Windy,Spring,Casual,T-shirt,Cotton,2.9
+6,Snowy,Spring,Home,T-shirt,Linen,1.2
+6,Cloudy,Summer,Date,Cardigan,Wool,3.4
+6,Rainy,Winter,Casual,Long-sleeve shirt,Polyester,3.1
+6,Snowy,Winter,Travel,Long-sleeve shirt,Polyester,4.5
+6,Windy,Spring,Beach,Polo,Cotton,2.7
+6,Snowy,Winter,Casual,Cargo pants,Polyester,2.7
+6,Windy,Winter,Party,Chinos,Cotton,4.4
+6,Windy,Fall,Hiking,Hoodie,Cotton,4.4
+6,Snowy,Winter,Hiking,Windbreaker,Polyester,3.7
+6,Windy,Winter,Home,Joggers,Cotton,2.7
+7,Rainy,Fall,Home,Long-sleeve shirt,Cotton,3.5
+7,Windy,Summer,Casual,Cargo pants,Cotton,3.3
+7,Rainy,Spring,Gym,T-shirt,Polyester,2.1
+7,Humid,Fall,Home,Tank top,Cotton,3.8
+7,Sunny,Spring,Travel,Coat,Wool,1.1
+7,Rainy,Summer,Business,Blazer,Polyester,3
+7,Rainy,Spring,Hiking,Cargo pants,Cotton,2.8
+7,Windy,Winter,Casual,Shorts,Denim,2.4
+7,Snowy,Winter,Date,Chinos,Cotton,2.8
+7,Sunny,Summer,Travel,Chinos,Linen,3.5
+8,Snowy,Winter,Gym,Joggers,Polyester,4.2
+8,Sunny,Summer,Business,Button-down shirt,Cotton,3.1
+8,Humid,Summer,Business,Coat,Wool,2.2
+8,Sunny,Summer,Gym,Sweatshirt,Fleece,1.8
+8,Windy,Spring,Gym,Joggers,Polyester,2.7
+8,Rainy,Winter,Business,Blazer,Polyester,2.7
+8,Sunny,Spring,Home,Joggers,Polyester,3.6
+8,Windy,Winter,Business,Button-down shirt,Cotton,2.6
+8,Windy,Fall,Beach,T-shirt,Cotton,3.5
+8,Rainy,Spring,Date,Henley,Cotton,3.1
+9,Snowy,Winter,Gym,Hoodie,Fleece,4.8
+9,Sunny,Summer,Home,Henley,Cotton,3.6
+9,Snowy,Fall,Casual,Blazer,Wool,3.4
+9,Snowy,Winter,Casual,Cardigan,Cotton,3.6
+9,Humid,Spring,Travel,Cargo pants,Cotton,3.5
+9,Snowy,Winter,Sleep,Polo,Cotton,2.4
+9,Rainy,Fall,Home,Tank top,Polyester,1.9
+9,Windy,Summer,Gym,Tank top,Polyester,2.6
+9,Sunny,Winter,Beach,Tank top,Polyester,4.4
+9,Windy,Fall,Sleep,Track pants,Polyester,3.2
+10,Windy,Fall,Travel,Long-sleeve shirt,Cotton,4.3
+10,Sunny,Spring,Hiking,Long-sleeve shirt,Wool,3.4
+10,Rainy,Fall,Casual,Jeans,Denim,3.2
+10,Windy,Spring,Hiking,Sweatshirt,Fleece,4.4
+10,Sunny,Summer,Business,Long-sleeve shirt,Wool,2.8
+10,Windy,Winter,Travel,Track pants,Polyester,3.5
+10,Cloudy,Fall,Hiking,Hoodie,Fleece,4.5
+10,Cloudy,Spring,Home,Sweatshirt,Cotton,3.4
+10,Rainy,Fall,Home,Cardigan,Cotton,3.2
+10,Sunny,Fall,Gym,T-shirt,Cotton,3.9
+11,Windy,Winter,Travel,Button-down shirt,Cotton,2.6
+11,Rainy,Winter,Casual,Track pants,Polyester,2.9
+11,Cloudy,Fall,Hiking,Long-sleeve shirt,Cotton,4.8
+11,Cloudy,Summer,Travel,Cardigan,Wool,3.2
+11,Windy,Winter,Business,Cardigan,Polyester,3.4
+11,Humid,Summer,Home,Track pants,Polyester,2.5
+11,Windy,Summer,Travel,Cardigan,Wool,3.9
+11,Sunny,Spring,Hiking,Polo,Polyester,3.9
+11,Sunny,Spring,Hiking,Cargo pants,Cotton,3.2
+11,Cloudy,Fall,Gym,Hoodie,Cotton,4.6
+12,Rainy,Fall,Party,Blazer,Wool,2.8
+12,Cloudy,Fall,Gym,Tank top,Cotton,2.1
+12,Snowy,Winter,Business,Blazer,Cotton,2.1
+12,Cloudy,Spring,Date,Polo,Polyester,4
+12,Cloudy,Winter,Home,Henley,Cotton,4.1
+12,Windy,Winter,Casual,Chinos,Linen,3.8
+12,Sunny,Summer,Hiking,Long-sleeve shirt,Polyester,3.9
+12,Humid,Summer,Business,Polo,Cotton,3.8
+12,Cloudy,Spring,Travel,Cargo pants,Polyester,3.2
+12,Rainy,Spring,Gym,Tank top,Polyester,1.5
+13,Sunny,Summer,Hiking,Windbreaker,Polyester,2.3
+13,Rainy,Winter,Party,Button-down shirt,Polyester,3
+13,Windy,Winter,Casual,Chinos,Cotton,4.5
+13,Humid,Spring,Party,Polo,Cotton,4.4
+13,Rainy,Spring,Home,Henley,Cotton,4
+13,Rainy,Fall,Travel,Chinos,Cotton,2.5
+13,Humid,Spring,Casual,Coat,Polyester,2.2
+13,Snowy,Winter,Home,Sweatshirt,Fleece,3.9
+13,Humid,Summer,Casual,Button-down shirt,Cotton,3.1
+13,Sunny,Summer,Home,Shorts,Polyester,3.8
+14,Snowy,Winter,Hiking,Windbreaker,Polyester,3.5
+14,Rainy,Spring,Gym,Sweatshirt,Cotton,2.5
+14,Rainy,Summer,Casual,Jeans,Denim,3.5
+14,Sunny,Summer,Business,Blazer,Wool,2.5
+14,Windy,Winter,Casual,Jeans,Cotton,4
+14,Windy,Fall,Travel,Coat,Wool,4.9
+14,Sunny,Summer,Date,Blazer,Polyester,2.3
+14,Cloudy,Spring,Casual,Tank top,Polyester,2.2
+14,Snowy,Fall,Hiking,Windbreaker,Polyester,4.1
+14,Cloudy,Fall,Business,Chinos,Linen,3.9
+15,Windy,Spring,Casual,Button-down shirt,Silk,3.1
+15,Windy,Spring,Hiking,Hoodie,Cotton,3.5
+15,Humid,Spring,Date,Chinos,Cotton,2.5
+15,Windy,Summer,Gym,Hoodie,Cotton,3.7
+15,Sunny,Summer,Business,Coat,Wool,1.9
+15,Humid,Winter,Travel,Button-down shirt,Cotton,3.6
+15,Cloudy,Winter,Gym,Track pants,Polyester,3.5
+15,Snowy,Spring,Casual,Coat,Wool,4.4
+15,Cloudy,Fall,Hiking,Cargo pants,Cotton,3.2
+15,Snowy,Winter,Casual,Jeans,Denim,4.4
+16,Rainy,Winter,Date,Cardigan,Polyester,3.1
+16,Sunny,Fall,Casual,Cardigan,Cotton,2.4
+16,Snowy,Winter,Travel,Coat,Wool,4.5
+16,Snowy,Fall,Casual,Hoodie,Cotton,4.3
+16,Humid,Winter,Date,Henley,Polyester,3.5
+16,Cloudy,Spring,Home,Track pants,Polyester,4
+16,Windy,Summer,Date,Coat,Polyester,3.6
+16,Rainy,Spring,Casual,Cardigan,Wool,2.8
+16,Rainy,Spring,Travel,Polo,Cotton,2.5
+16,Rainy,Fall,Beach,Shorts,Polyester,1.9
+17,Sunny,Winter,Home,Joggers,Cotton,2.8
+17,Humid,Summer,Casual,Hoodie,Fleece,2.9
+17,Snowy,Winter,Hiking,Shorts,Polyester,1.4
+17,Rainy,Fall,Home,T-shirt,Cotton,3.8
+17,Sunny,Fall,Casual,Chinos,Cotton,3.3
+17,Humid,Fall,Gym,Track pants,Cotton,3.2
+17,Windy,Fall,Casual,Sweatshirt,Cotton,4.9
+17,Sunny,Spring,Home,Joggers,Cotton,2.3
+17,Snowy,Fall,Gym,Track pants,Polyester,4.5
+17,Windy,Summer,Hiking,Coat,Wool,4.9
+18,Snowy,Winter,Gym,Track pants,Polyester,3.6
+18,Windy,Fall,Travel,Joggers,Cotton,3.8
+18,Humid,Summer,Casual,Shorts,Polyester,3.7
+18,Rainy,Fall,Business,Blazer,Wool,3.1
+18,Windy,Winter,Home,Shorts,Polyester,2.9
+18,Cloudy,Spring,Gym,Joggers,Cotton,3.1
+18,Cloudy,Winter,Gym,Sweatshirt,Fleece,3.4
+18,Cloudy,Fall,Travel,Cargo pants,Cotton,3.1
+18,Rainy,Fall,Hiking,Sweatshirt,Polyester,3.3
+18,Rainy,Winter,Hiking,Hoodie,Cotton,3.1
+19,Snowy,Winter,Date,Coat,Wool,4.5
+19,Snowy,Winter,Casual,Tank top,Cotton,1.2
+19,Snowy,Fall,Party,Jeans,Cotton,4.8
+19,Windy,Winter,Home,T-shirt,Polyester,3.3
+19,Windy,Winter,Travel,Jeans,Denim,3.7
+19,Cloudy,Spring,Business,Cardigan,Wool,4.1
+19,Snowy,Winter,Hiking,Cargo pants,Polyester,3.6
+19,Windy,Spring,Gym,Sweatshirt,Fleece,4.2
+19,Cloudy,Summer,Date,Chinos,Cotton,3.7
+19,Snowy,Winter,Travel,Coat,Wool,4.7
+20,Snowy,Winter,Casual,Henley,Cotton,3.8
+20,Rainy,Summer,Travel,Cargo pants,Polyester,2.6
+20,Snowy,Winter,Travel,T-shirt,Linen,1.2
+20,Snowy,Spring,Travel,Polo,Cotton,3.7
+20,Rainy,Fall,Gym,Tank top,Cotton,1.4
+20,Cloudy,Spring,Travel,Hoodie,Cotton,4.2
+20,Cloudy,Winter,Hiking,Jeans,Denim,3.6
+20,Snowy,Winter,Business,Blazer,Cotton,3.3
+20,Snowy,Winter,Gym,T-shirt,Polyester,2.5
+20,Sunny,Winter,Travel,Windbreaker,Polyester,2.3
+21,Sunny,Summer,Home,Tank top,Polyester,4.6
+21,Rainy,Fall,Casual,Hoodie,Cotton,4.7
+21,Windy,Winter,Hiking,Polo,Cotton,2.9
+21,Snowy,Winter,Business,Button-down shirt,Polyester,3.3
+21,Rainy,Winter,Home,Joggers,Polyester,3.4
+21,Cloudy,Spring,Party,Henley,Cotton,3.9
+21,Humid,Spring,Business,Button-down shirt,Cotton,3.7
+21,Rainy,Winter,Travel,Cardigan,Wool,2.7
+21,Sunny,Summer,Date,Cardigan,Cotton,2.9
+21,Snowy,Winter,Casual,Jeans,Denim,4.9
+22,Rainy,Spring,Travel,Long-sleeve shirt,Cotton,3.9
+22,Humid,Fall,Travel,Sweatshirt,Fleece,1.7
+22,Cloudy,Fall,Business,Button-down shirt,Linen,4.2
+22,Windy,Fall,Gym,Tank top,Cotton,2
+22,Snowy,Winter,Casual,Windbreaker,Polyester,3.1
+22,Humid,Fall,Casual,Coat,Wool,1
+22,Snowy,Fall,Beach,Shorts,Cotton,1.1
+22,Cloudy,Fall,Casual,Joggers,Polyester,4.1
+22,Snowy,Fall,Casual,Henley,Cotton,3.6
+22,Humid,Fall,Business,Blazer,Cotton,3.2
+23,Windy,Winter,Gym,Shorts,Polyester,2.7
+23,Humid,Spring,Business,Blazer,Polyester,2.6
+23,Rainy,Winter,Business,Long-sleeve shirt,Cotton,3.4
+23,Snowy,Winter,Travel,Sweatshirt,Cotton,4.6
+23,Windy,Winter,Hiking,Jeans,Denim,3.5
+23,Snowy,Winter,Casual,Coat,Wool,4.2
+23,Rainy,Spring,Travel,Windbreaker,Cotton,4.8
+23,Cloudy,Fall,Date,Blazer,Wool,3.8
+23,Humid,Winter,Business,Blazer,Cotton,3.1
+23,Windy,Fall,Casual,Hoodie,Fleece,3.2
+24,Humid,Summer,Business,Chinos,Cotton,3.5
+24,Rainy,Spring,Beach,Shorts,Polyester,2
+24,Snowy,Winter,Casual,Joggers,Polyester,4.1
+24,Sunny,Summer,Travel,Cardigan,Wool,2.3
+24,Humid,Summer,Home,Sweatshirt,Cotton,2
+24,Windy,Winter,Hiking,Windbreaker,Polyester,4.5
+24,Windy,Winter,Hiking,Windbreaker,Polyester,4.4
+24,Humid,Winter,Casual,Cargo pants,Cotton,3
+24,Humid,Fall,Home,Joggers,Polyester,2.9
+24,Cloudy,Winter,Casual,Sweatshirt,Cotton,3.2
+25,Rainy,Fall,Hiking,Coat,Leather,3.7
+25,Windy,Fall,Date,Henley,Polyester,3.3
+25,Humid,Summer,Casual,Shorts,Denim,3.4
+25,Windy,Fall,Home,Track pants,Polyester,3.9
+25,Sunny,Winter,Casual,Hoodie,Cotton,2.1
+25,Cloudy,Spring,Party,Henley,Polyester,3.5
+25,Humid,Fall,Hiking,Cargo pants,Cotton,2.7
+25,Sunny,Summer,Gym,Tank top,Linen,4.3
+25,Humid,Spring,Home,Polo,Polyester,4
+25,Snowy,Winter,Business,Button-down shirt,Polyester,3.8
+26,Windy,Spring,Business,Cardigan,Cotton,3.2
+26,Snowy,Winter,Casual,Coat,Wool,4.2
+26,Sunny,Spring,Business,Blazer,Cotton,3.4
+26,Snowy,Winter,Date,Button-down shirt,Cotton,3.7
+26,Snowy,Winter,Beach,Shorts,Cotton,1.1
+26,Humid,Spring,Sleep,Tank top,Polyester,3.7
+26,Windy,Summer,Date,Cardigan,Polyester,2.6
+26,Rainy,Winter,Business,Button-down shirt,Linen,3.3
+26,Snowy,Winter,Gym,Sweatshirt,Fleece,4.7
+26,Snowy,Winter,Home,Joggers,Cotton,4.3
+27,Cloudy,Fall,Casual,Chinos,Cotton,3.5
+27,Windy,Winter,Beach,Tank top,Linen,2.4
+27,Humid,Fall,Casual,Button-down shirt,Cotton,3.9
+27,Rainy,Fall,Gym,Hoodie,Fleece,3.5
+27,Sunny,Spring,Casual,Henley,Polyester,3.4
+27,Windy,Spring,Casual,Long-sleeve shirt,Wool,3.2
+27,Snowy,Fall,Casual,Joggers,Polyester,3.9
+27,Snowy,Winter,Home,Cardigan,Wool,3
+27,Cloudy,Winter,Date,Cardigan,Cotton,4.1
+27,Snowy,Winter,Travel,Long-sleeve shirt,Cotton,3.9
+28,Cloudy,Summer,Casual,Hoodie,Fleece,4.1
+28,Windy,Spring,Home,Sweatshirt,Fleece,4.5
+28,Cloudy,Spring,Hiking,Polo,Polyester,3.1
+28,Rainy,Spring,Home,Cardigan,Polyester,3.4
+28,Windy,Fall,Business,Cardigan,Wool,3.2
+28,Snowy,Fall,Home,Cardigan,Wool,4
+28,Cloudy,Fall,Casual,Track pants,Polyester,3.8
+28,Snowy,Winter,Home,Long-sleeve shirt,Wool,3.7
+28,Snowy,Winter,Travel,Coat,Polyester,4.6
+28,Sunny,Fall,Business,Long-sleeve shirt,Wool,2.5
+29,Humid,Spring,Casual,T-shirt,Polyester,4.5
+29,Humid,Fall,Party,Blazer,Wool,3.2
+29,Rainy,Fall,Beach,Shorts,Cotton,1.8
+29,Snowy,Fall,Business,Blazer,Wool,2.3
+29,Windy,Summer,Date,Chinos,Cotton,4
+29,Snowy,Winter,Business,Long-sleeve shirt,Cotton,3.4
+29,Snowy,Winter,Casual,Coat,Wool,4.3
+29,Sunny,Summer,Travel,Henley,Cotton,3.5
+29,Humid,Summer,Gym,Shorts,Cotton,3.4
+29,Snowy,Winter,Gym,Cargo pants,Cotton,2.6
+30,Sunny,Spring,Hiking,Coat,Wool,1.4
+30,Sunny,Summer,Casual,Jeans,Denim,4.2
+30,Sunny,Summer,Gym,Cargo pants,Polyester,3.7
+30,Sunny,Summer,Home,Hoodie,Cotton,2.5
+30,Windy,Fall,Beach,Shorts,Cotton,2.9
+30,Sunny,Spring,Casual,Hoodie,Fleece,2
+30,Rainy,Spring,Casual,Cardigan,Wool,3.2
+30,Humid,Spring,Gym,Shorts,Cotton,3.2
+30,Humid,Spring,Home,Sweatshirt,Fleece,2.6
+30,Cloudy,Winter,Hiking,Cargo pants,Cotton,3
+31,Snowy,Winter,Casual,Long-sleeve shirt,Cotton,2.9
+31,Sunny,Spring,Gym,Joggers,Polyester,3.9
+31,Humid,Spring,Home,Polo,Cotton,3.7
+31,Humid,Spring,Casual,Cardigan,Wool,3.5
+31,Cloudy,Spring,Casual,Chinos,Cotton,4.3
+31,Snowy,Winter,Home,Sweatshirt,Polyester,4.2
+31,Rainy,Summer,Travel,Jeans,Denim,3.3
+31,Windy,Spring,Casual,Track pants,Polyester,4.1
+31,Rainy,Fall,Casual,Long-sleeve shirt,Wool,3.4
+31,Snowy,Winter,Hiking,Coat,Wool,4.9
+32,Windy,Spring,Business,Blazer,Wool,3.7
+32,Cloudy,Winter,Home,Cardigan,Cotton,4.3
+32,Windy,Spring,Beach,Shorts,Cotton,3.3
+32,Snowy,Winter,Hiking,Cargo pants,Polyester,3.2
+32,Cloudy,Fall,Hiking,Cargo pants,Polyester,4.1
+32,Snowy,Winter,Casual,Joggers,Polyester,4.4
+32,Rainy,Spring,Home,Sweatshirt,Cotton,3.6
+32,Rainy,Fall,Party,Chinos,Cotton,2.6
+32,Humid,Summer,Casual,Shorts,Cotton,4.1
+32,Snowy,Fall,Date,Jeans,Denim,5
+33,Humid,Summer,Travel,Polo,Cotton,3.7
+33,Sunny,Fall,Home,Polo,Polyester,4.3
+33,Windy,Fall,Date,Coat,Polyester,4.8
+33,Snowy,Fall,Casual,Button-down shirt,Cotton,3.3
+33,Snowy,Winter,Gym,T-shirt,Linen,2.4
+33,Snowy,Winter,Home,Polo,Polyester,2.1
+33,Cloudy,Fall,Casual,Coat,Wool,3.9
+33,Snowy,Fall,Hiking,Long-sleeve shirt,Wool,4.2
+33,Humid,Summer,Travel,Cargo pants,Cotton,3.1
+33,Cloudy,Summer,Beach,Shorts,Cotton,3.8
+34,Sunny,Summer,Business,Long-sleeve shirt,Cotton,2.5
+34,Humid,Summer,Date,Cardigan,Wool,4.5
+34,Humid,Summer,Home,Long-sleeve shirt,Cotton,2.7
+34,Sunny,Summer,Business,Button-down shirt,Cotton,3.7
+34,Humid,Spring,Casual,Cardigan,Cotton,4.3
+34,Sunny,Spring,Business,Coat,Wool,2.2
+34,Cloudy,Spring,Hiking,Windbreaker,Polyester,3.6
+34,Rainy,Spring,Hiking,Sweatshirt,Fleece,3.6
+34,Windy,Spring,Home,Henley,Cotton,3.3
+34,Sunny,Summer,Hiking,Jeans,Denim,3.7
+35,Rainy,Spring,Casual,Shorts,Cotton,2.4
+35,Rainy,Winter,Hiking,Sweatshirt,Cotton,3.4
+35,Cloudy,Winter,Gym,Joggers,Cotton,3.4
+35,Sunny,Spring,Casual,Joggers,Cotton,3.8
+35,Humid,Winter,Travel,Cargo pants,Cotton,2.7
+35,Snowy,Winter,Hiking,Windbreaker,Polyester,4.5
+35,Cloudy,Fall,Business,Chinos,Cotton,4
+35,Snowy,Winter,Business,Cardigan,Cotton,3.3
+35,Snowy,Winter,Beach,Shorts,Cotton,1.1
+35,Snowy,Fall,Gym,Windbreaker,Polyester,3.9
+36,Humid,Summer,Date,Cardigan,Wool,2.5
+36,Humid,Spring,Date,Jeans,Denim,2.9
+36,Windy,Fall,Gym,Tank top,Polyester,2.9
+36,Humid,Summer,Beach,Shorts,Cotton,4.2
+36,Cloudy,Spring,Hiking,Sweatshirt,Cotton,3.9
+36,Cloudy,Summer,Travel,Sweatshirt,Fleece,4
+36,Windy,Spring,Party,Blazer,Wool,3.5
+36,Humid,Fall,Party,Polo,Cotton,3.9
+36,Humid,Summer,Home,Tank top,Linen,4
+36,Snowy,Fall,Home,Tank top,Polyester,1.6
+37,Humid,Fall,Casual,Polo,Cotton,3.1
+37,Cloudy,Spring,Date,Coat,Polyester,4.1
+37,Rainy,Winter,Casual,Hoodie,Cotton,3.3
+37,Windy,Spring,Gym,Windbreaker,Polyester,4.5
+37,Cloudy,Fall,Travel,Henley,Polyester,3.4
+37,Snowy,Fall,Home,Cardigan,Cotton,4.1
+37,Cloudy,Spring,Business,Button-down shirt,Silk,3.7
+37,Sunny,Spring,Gym,Polo,Polyester,4.6
+37,Rainy,Spring,Travel,Jeans,Denim,4.5
+37,Windy,Winter,Casual,Windbreaker,Polyester,4.1
+38,Snowy,Winter,Home,T-shirt,Cotton,1.5
+38,Sunny,Summer,Casual,Joggers,Cotton,2.7
+38,Humid,Fall,Party,Blazer,Wool,3.2
+38,Humid,Summer,Casual,Windbreaker,Polyester,2.2
+38,Rainy,Fall,Casual,Shorts,Cotton,1
+38,Windy,Summer,Travel,Coat,Wool,4.9
+38,Rainy,Spring,Casual,Long-sleeve shirt,Polyester,4
+38,Snowy,Winter,Business,Cardigan,Cotton,4
+38,Sunny,Summer,Sleep,Polo,Polyester,3.6
+38,Sunny,Summer,Casual,Cardigan,Cotton,3.5
+39,Sunny,Fall,Date,Button-down shirt,Cotton,3.4
+39,Windy,Fall,Beach,Polo,Cotton,3.1
+39,Cloudy,Fall,Gym,Cargo pants,Cotton,3.6
+39,Humid,Fall,Gym,Polo,Polyester,4.3
+39,Humid,Fall,Business,Button-down shirt,Linen,3.8
+39,Windy,Spring,Date,Chinos,Linen,4.4
+39,Cloudy,Summer,Home,Tank top,Cotton,3
+39,Rainy,Spring,Home,Joggers,Cotton,2.9
+39,Rainy,Summer,Casual,Windbreaker,Polyester,4.1
+39,Humid,Summer,Casual,Windbreaker,Polyester,2.8
+40,Humid,Summer,Casual,Windbreaker,Cotton,2.1
+40,Cloudy,Summer,Travel,Hoodie,Cotton,5
+40,Snowy,Spring,Hiking,Long-sleeve shirt,Cotton,3.8
+40,Humid,Summer,Beach,T-shirt,Polyester,3.1
+40,Cloudy,Fall,Travel,Sweatshirt,Cotton,4.5
+40,Windy,Winter,Home,Hoodie,Polyester,3.1
+40,Windy,Spring,Home,Hoodie,Fleece,4.2
+40,Rainy,Spring,Travel,Coat,Wool,4.7
+40,Windy,Winter,Casual,T-shirt,Polyester,2.4
+40,Rainy,Spring,Business,Polo,Polyester,3.6
+41,Rainy,Spring,Travel,Button-down shirt,Cotton,3.5
+41,Sunny,Winter,Hiking,Polo,Polyester,3.5
+41,Rainy,Winter,Date,Coat,Wool,3.5
+41,Cloudy,Spring,Casual,Tank top,Polyester,2.2
+41,Snowy,Winter,Home,Track pants,Polyester,3.2
+41,Sunny,Spring,Beach,Shorts,Denim,4.2
+41,Cloudy,Spring,Sleep,Track pants,Polyester,3.9
+41,Snowy,Winter,Gym,Track pants,Polyester,3.3
+41,Windy,Spring,Gym,Tank top,Linen,2.6
+41,Humid,Spring,Sleep,Track pants,Polyester,3
+42,Humid,Summer,Gym,T-shirt,Cotton,3.1
+42,Snowy,Winter,Travel,Jeans,Cotton,3.9
+42,Sunny,Summer,Gym,Shorts,Denim,4.6
+42,Snowy,Winter,Travel,Long-sleeve shirt,Cotton,4.3
+42,Cloudy,Fall,Sleep,Polo,Cotton,3.1
+42,Cloudy,Summer,Hiking,Cargo pants,Cotton,4.1
+42,Snowy,Winter,Gym,Track pants,Polyester,3.4
+42,Windy,Summer,Date,Chinos,Cotton,3.1
+42,Humid,Summer,Business,Button-down shirt,Linen,3.8
+42,Humid,Summer,Casual,Cargo pants,Polyester,3.6
+43,Rainy,Spring,Casual,Chinos,Cotton,3.4
+43,Rainy,Summer,Travel,Chinos,Cotton,3.2
+43,Snowy,Winter,Date,Jeans,Denim,3.8
+43,Sunny,Summer,Business,Coat,Wool,1.6
+43,Humid,Summer,Business,Blazer,Wool,2.7
+43,Rainy,Winter,Beach,Shorts,Polyester,1.1
+43,Sunny,Summer,Casual,Long-sleeve shirt,Cotton,2.9
+43,Humid,Winter,Casual,Windbreaker,Polyester,3.2
+43,Windy,Fall,Gym,Tank top,Cotton,2.4
+43,Windy,Fall,Casual,Cargo pants,Cotton,3.5
+44,Sunny,Fall,Business,Chinos,Cotton,3.5
+44,Humid,Spring,Business,Chinos,Cotton,4.2
+44,Humid,Summer,Casual,Tank top,Polyester,5
+44,Windy,Spring,Home,Cardigan,Cotton,3
+44,Windy,Fall,Home,Track pants,Polyester,3.3
+44,Humid,Summer,Casual,Shorts,Polyester,3.3
+44,Sunny,Summer,Hiking,Windbreaker,Polyester,3.3
+44,Cloudy,Spring,Travel,Button-down shirt,Polyester,4.1
+44,Windy,Winter,Home,Sweatshirt,Fleece,4.7
+44,Windy,Spring,Travel,Cargo pants,Cotton,3
+45,Humid,Summer,Business,Blazer,Wool,2.1
+45,Cloudy,Spring,Home,Cardigan,Polyester,4.4
+45,Cloudy,Fall,Casual,T-shirt,Cotton,2.8
+45,Rainy,Spring,Casual,Jeans,Denim,3.1
+45,Humid,Summer,Casual,T-shirt,Polyester,3.1
+45,Windy,Spring,Travel,Hoodie,Polyester,3.8
+45,Snowy,Winter,Travel,Coat,Leather,4.2
+45,Cloudy,Spring,Business,Coat,Polyester,4.2
+45,Windy,Spring,Travel,Long-sleeve shirt,Cotton,4.3
+45,Rainy,Winter,Travel,Henley,Cotton,3.6
+46,Sunny,Summer,Travel,Long-sleeve shirt,Wool,2.5
+46,Humid,Summer,Business,Chinos,Cotton,3.5
+46,Snowy,Winter,Business,Chinos,Cotton,2.9
+46,Windy,Spring,Business,Button-down shirt,Silk,3
+46,Sunny,Spring,Casual,Cardigan,Cotton,3
+46,Windy,Fall,Casual,Shorts,Cotton,2.8
+46,Cloudy,Winter,Home,Tank top,Cotton,2.3
+46,Windy,Summer,Gym,Tank top,Cotton,1.5
+46,Cloudy,Summer,Gym,Hoodie,Cotton,4.7
+46,Cloudy,Spring,Date,Cardigan,Cotton,3.5
+47,Sunny,Summer,Gym,Shorts,Cotton,4.6
+47,Rainy,Summer,Sleep,Polo,Cotton,3.3
+47,Humid,Winter,Travel,Sweatshirt,Fleece,2.3
+47,Humid,Spring,Travel,Windbreaker,Polyester,2.1
+47,Humid,Summer,Home,Tank top,Linen,4.2
+47,Snowy,Winter,Business,Long-sleeve shirt,Cotton,4.2
+47,Windy,Spring,Business,Chinos,Cotton,3.9
+47,Humid,Summer,Date,Chinos,Linen,3.1
+47,Snowy,Winter,Casual,T-shirt,Cotton,2.9
+47,Rainy,Fall,Sleep,Joggers,Fleece,3.7
+48,Cloudy,Fall,Casual,Long-sleeve shirt,Cotton,3.9
+48,Sunny,Summer,Casual,Sweatshirt,Polyester,2.2
+48,Snowy,Winter,Gym,Track pants,Polyester,3.1
+48,Cloudy,Fall,Casual,Coat,Polyester,3.3
+48,Rainy,Fall,Travel,Long-sleeve shirt,Cotton,3.8
+48,Sunny,Fall,Gym,Track pants,Cotton,3.3
+48,Cloudy,Spring,Hiking,Windbreaker,Polyester,4.1
+48,Humid,Winter,Date,Polo,Cotton,3.4
+48,Rainy,Fall,Business,Blazer,Cotton,2.3
+48,Windy,Fall,Gym,Polo,Cotton,3.6
+49,Humid,Spring,Home,Long-sleeve shirt,Wool,2.3
+49,Humid,Summer,Casual,Shorts,Polyester,3.7
+49,Windy,Fall,Gym,Joggers,Cotton,3.5
+49,Windy,Spring,Date,Coat,Polyester,4.8
+49,Humid,Spring,Travel,Coat,Wool,1.2
+49,Sunny,Spring,Casual,Shorts,Denim,4.2
+49,Cloudy,Spring,Business,Blazer,Wool,3.4
+49,Cloudy,Fall,Gym,Track pants,Polyester,3.1
+49,Snowy,Winter,Home,Joggers,Fleece,2.6
+49,Cloudy,Fall,Travel,Cardigan,Polyester,3.1
+50,Sunny,Fall,Gym,Track pants,Polyester,3.1
+50,Windy,Spring,Casual,Cargo pants,Cotton,4.4
+50,Humid,Summer,Gym,Tank top,Cotton,4.2
+50,Windy,Fall,Gym,Hoodie,Cotton,3.6
+50,Snowy,Winter,Casual,Track pants,Polyester,3.2
+50,Sunny,Spring,Gym,Joggers,Cotton,2.2
+50,Cloudy,Fall,Hiking,Long-sleeve shirt,Cotton,4
+50,Rainy,Fall,Beach,Tank top,Cotton,1.4
+50,Snowy,Winter,Travel,Joggers,Fleece,3.5
+50,Windy,Fall,Date,Henley,Polyester,3.5
