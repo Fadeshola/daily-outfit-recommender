@@ -1,0 +1,501 @@
+userID,itemID,prediction
+1,Coat,0.3712861
+1,Joggers,-0.31138545
+1,Cargo pants,-1.5423306
+1,Polo,-1.636089
+1,Jeans,-2.7379777
+1,Cardigan,-3.5617828
+1,Tank top,-3.5959074
+1,Chinos,-3.657693
+1,Shorts,-3.9403718
+1,Windbreaker,-4.031358
+2,Polo,0.28417474
+2,Track pants,0.2648923
+2,Henley,0.2392622
+2,Shorts,0.06833491
+2,Chinos,-0.4187387
+2,T-shirt,-0.6428534
+2,Coat,-0.9976852
+2,Cargo pants,-1.4547795
+2,Sweatshirt,-1.7797712
+2,Tank top,-1.8226786
+3,Shorts,1.7066473
+3,Chinos,1.5384694
+3,Track pants,1.408605
+3,Cardigan,1.3760571
+3,Blazer,1.085891
+3,Button-down shirt,0.7709418
+3,T-shirt,-0.61858505
+3,Jeans,-0.68355185
+3,Polo,-0.6938982
+3,Henley,-0.9292173
+4,Cardigan,-0.35670528
+4,Coat,-1.5781094
+4,Shorts,-1.674765
+4,Long-sleeve shirt,-1.6838702
+4,Tank top,-1.8459164
+4,Henley,-1.8626959
+4,Hoodie,-1.9716233
+4,T-shirt,-2.151552
+4,Cargo pants,-2.1812832
+4,Windbreaker,-2.2958882
+5,Long-sleeve shirt,1.3189168
+5,Track pants,0.75258994
+5,Shorts,0.38312244
+5,Joggers,0.2832862
+5,Jeans,0.030001279
+5,Sweatshirt,-0.6283268
+5,Henley,-0.8250007
+5,Tank top,-0.84497595
+5,Polo,-0.9137721
+5,Windbreaker,-1.4702656
+6,Tank top,0.20644481
+6,Track pants,-0.052281596
+6,Button-down shirt,-0.7616399
+6,Shorts,-0.9142982
+6,T-shirt,-1.0696605
+6,Coat,-1.120387
+6,Sweatshirt,-1.1450326
+6,Jeans,-1.3542157
+6,Blazer,-1.5121232
+6,Henley,-3.5357237
+7,Hoodie,0.38093978
+7,Polo,0.15835923
+7,Henley,0.1486805
+7,Track pants,-0.021366807
+7,Cardigan,-0.11913027
+7,Jeans,-0.22043788
+7,Joggers,-0.23230302
+7,Sweatshirt,-0.49407613
+7,Button-down shirt,-0.7550459
+7,Windbreaker,-1.3447114
+8,Long-sleeve shirt,0.47700328
+8,Hoodie,-0.6132029
+8,Shorts,-0.9242629
+8,Jeans,-1.0591162
+8,Track pants,-1.096047
+8,Windbreaker,-1.7279594
+8,Polo,-2.7423518
+8,Chinos,-2.7445595
+8,Cardigan,-3.2294927
+8,Tank top,-3.3832517
+9,Long-sleeve shirt,-0.08154618
+9,Hoodie,-0.10318208
+9,Windbreaker,-0.2232227
+9,Shorts,-0.8985048
+9,Jeans,-1.4380896
+9,Button-down shirt,-1.5040095
+9,Joggers,-1.5368094
+9,Chinos,-1.685362
+9,Coat,-1.9145831
+9,T-shirt,-2.5184083
+10,Coat,0.9112616
+10,Joggers,0.35574737
+10,Cargo pants,-0.524546
+10,Polo,-0.7907852
+10,Blazer,-1.0811982
+10,Jeans,-1.4553517
+10,Windbreaker,-1.7479502
+10,Shorts,-1.9966576
+10,Chinos,-2.1378725
+10,Button-down shirt,-2.6492965
+11,Joggers,1.6185832
+11,Coat,1.4327925
+11,Polo,0.81374484
+11,Chinos,0.08566037
+11,Tank top,-0.2218427
+11,Shorts,-0.5732015
+11,T-shirt,-1.028688
+11,Henley,-1.2046673
+11,Sweatshirt,-1.4744338
+11,Jeans,-2.3050697
+12,Jeans,0.10580841
+12,Coat,0.0043384396
+12,Windbreaker,-0.4454065
+12,Cargo pants,-0.5445097
+12,Button-down shirt,-0.68344766
+12,Shorts,-0.76558363
+12,Track pants,-1.7838652
+12,T-shirt,-1.8007522
+12,Joggers,-2.1852856
+12,Cardigan,-2.2341816
+13,Long-sleeve shirt,0.17228585
+13,Jeans,-0.010520932
+13,Tank top,-0.4969681
+13,Cargo pants,-1.0187371
+13,Sweatshirt,-1.3543538
+13,Joggers,-1.5487717
+13,Cardigan,-1.5619112
+13,Blazer,-1.7474982
+13,Track pants,-2.689976
+13,T-shirt,-2.7512465
+14,Shorts,0.8211316
+14,Cardigan,0.43639767
+14,Henley,0.2529951
+14,Polo,-0.0079046935
+14,Long-sleeve shirt,-1.3728888
+14,T-shirt,-1.4518317
+14,Chinos,-1.4869579
+14,Hoodie,-2.106371
+14,Cargo pants,-3.0944312
+14,Joggers,-3.3354318
+15,Long-sleeve shirt,0.80868715
+15,Henley,0.6419016
+15,Tank top,0.46776587
+15,Joggers,-0.06321809
+15,Shorts,-0.10954881
+15,Track pants,-0.32268634
+15,Sweatshirt,-0.6737129
+15,Cardigan,-0.69009036
+15,Polo,-1.5178937
+15,T-shirt,-2.142255
+16,Cargo pants,1.9196073
+16,Long-sleeve shirt,1.5002899
+16,Sweatshirt,0.95029473
+16,Blazer,0.6096055
+16,Tank top,0.47582144
+16,Jeans,0.15279344
+16,Joggers,0.06934459
+16,Windbreaker,-0.2662837
+16,Button-down shirt,-0.6515643
+16,Chinos,-1.066738
+17,Long-sleeve shirt,0.69228184
+17,Jeans,-0.017377587
+17,Cardigan,-0.055330146
+17,Shorts,-0.13951677
+17,Button-down shirt,-0.4558873
+17,Cargo pants,-0.50329816
+17,Blazer,-2.4489322
+17,Polo,-2.4815187
+17,Windbreaker,-2.7014837
+17,Tank top,-3.3598883
+18,Cardigan,1.097849
+18,Coat,0.7681063
+18,Tank top,0.6607397
+18,T-shirt,0.56749535
+18,Long-sleeve shirt,0.45368508
+18,Chinos,-1.1556444
+18,Button-down shirt,-1.4565827
+18,Henley,-2.1112847
+18,Sweatshirt,-2.6932027
+18,Windbreaker,-3.1845746
+19,Hoodie,1.7685443
+19,Shorts,1.7455044
+19,Polo,0.054749038
+19,Long-sleeve shirt,-0.13555402
+19,Windbreaker,-0.86237985
+19,Joggers,-1.2063059
+19,Track pants,-1.456798
+19,Blazer,-1.7176356
+19,Button-down shirt,-1.7374094
+19,Henley,-2.7608607
+20,Coat,-2.1819801
+20,Cardigan,-2.4767067
+20,Long-sleeve shirt,-2.5741384
+20,Cargo pants,-2.6974473
+20,Sweatshirt,-3.0596285
+20,Chinos,-3.3884475
+20,Track pants,-4.075515
+20,Joggers,-4.1781054
+20,Button-down shirt,-4.5873466
+20,Shorts,-5.2006617
+21,Coat,-0.80931115
+21,Chinos,-0.8287733
+21,Track pants,-1.0170445
+21,Cargo pants,-1.065243
+21,Windbreaker,-1.5925776
+21,Long-sleeve shirt,-1.8305848
+21,Blazer,-2.0409667
+21,Sweatshirt,-2.7607954
+21,T-shirt,-2.9357193
+21,Shorts,-3.4780488
+22,Polo,-0.025302678
+22,Blazer,-0.3025911
+22,Jeans,-0.9640885
+22,Chinos,-1.0509733
+22,Cargo pants,-1.5636317
+22,Cardigan,-1.7382565
+22,T-shirt,-1.8525939
+22,Track pants,-2.0263379
+22,Joggers,-2.1727018
+22,Hoodie,-3.4680548
+23,Cardigan,1.1807824
+23,Tank top,0.76987696
+23,T-shirt,0.74632055
+23,Chinos,0.013515662
+23,Henley,-0.17217474
+23,Track pants,-0.46100208
+23,Cargo pants,-0.93601364
+23,Joggers,-1.642633
+23,Windbreaker,-1.9868661
+23,Polo,-2.0591292
+24,Chinos,0.29971722
+24,Tank top,0.1892713
+24,Track pants,-0.6367153
+24,Polo,-0.92361355
+24,Hoodie,-1.0028042
+24,Coat,-1.0992924
+24,Blazer,-1.3674966
+24,Button-down shirt,-1.3817587
+24,Long-sleeve shirt,-1.9502798
+24,T-shirt,-2.2195241
+25,Long-sleeve shirt,0.7506929
+25,Tank top,-0.05612164
+25,Joggers,-0.5567244
+25,T-shirt,-0.95770824
+25,Blazer,-1.1269194
+25,Cardigan,-1.4341468
+25,Jeans,-1.5241259
+25,Polo,-1.7645165
+25,Chinos,-1.828512
+25,Sweatshirt,-2.536445
+26,Chinos,0.68910056
+26,Track pants,0.35897496
+26,Long-sleeve shirt,0.3253804
+26,Jeans,0.25926822
+26,Cargo pants,0.13488834
+26,Windbreaker,0.060278073
+26,Hoodie,-0.09533142
+26,Blazer,-1.0735785
+26,Henley,-1.3356851
+26,Polo,-1.9113135
+27,Cargo pants,1.4479412
+27,Track pants,1.4204829
+27,Coat,1.4004073
+27,Jeans,0.23062634
+27,Polo,-0.41032985
+27,T-shirt,-0.7613635
+27,Shorts,-0.8620551
+27,Tank top,-0.97454745
+27,Henley,-1.0050886
+27,Sweatshirt,-1.2060906
+28,Shorts,1.5769217
+28,T-shirt,1.0167856
+28,Joggers,0.9710415
+28,Jeans,0.8386498
+28,Cargo pants,0.7632156
+28,Polo,0.30281132
+28,Button-down shirt,-0.25344488
+28,Chinos,-0.63400006
+28,Blazer,-0.6462179
+28,Tank top,-0.66254044
+29,Tank top,1.0534513
+29,Button-down shirt,0.9932458
+29,Jeans,0.78291833
+29,Polo,-0.007914126
+29,T-shirt,-0.25881422
+29,Joggers,-0.7135189
+29,Cargo pants,-0.72962487
+29,Hoodie,-1.0871875
+29,Track pants,-1.3025892
+29,Windbreaker,-1.3265315
+30,Tank top,1.5436023
+30,Cardigan,0.7993612
+30,Chinos,0.7540243
+30,Track pants,-0.616712
+30,Long-sleeve shirt,-0.79375035
+30,T-shirt,-1.152059
+30,Blazer,-1.3663685
+30,Button-down shirt,-1.5296239
+30,Joggers,-2.098697
+30,Windbreaker,-2.208255
+31,Hoodie,1.1074371
+31,Button-down shirt,1.0647246
+31,Sweatshirt,0.3768041
+31,Blazer,0.12057345
+31,Shorts,-0.29887933
+31,Tank top,-0.38958648
+31,Windbreaker,-0.44974613
+31,Cargo pants,-0.8515827
+31,Henley,-1.5439938
+31,T-shirt,-2.2500374
+32,Coat,0.7420605
+32,Tank top,0.30647048
+32,Windbreaker,0.09105379
+32,Long-sleeve shirt,-1.3106419
+32,Hoodie,-1.5409424
+32,Track pants,-2.0657244
+32,Cargo pants,-2.0766747
+32,T-shirt,-2.3082728
+32,Button-down shirt,-2.7788966
+32,Henley,-2.8968153
+33,Chinos,2.0415103
+33,Track pants,1.7031058
+33,Tank top,1.3437426
+33,Henley,1.1514474
+33,Windbreaker,0.98810667
+33,Hoodie,0.61330074
+33,Cardigan,0.08911522
+33,Joggers,-0.93115324
+33,Blazer,-0.97033346
+33,Sweatshirt,-1.2809197
+34,Hoodie,0.00990535
+34,Chinos,-0.20458472
+34,Polo,-0.29762223
+34,Shorts,-0.439476
+34,Windbreaker,-0.5920507
+34,Tank top,-0.71834034
+34,Blazer,-0.8655516
+34,Joggers,-1.0731415
+34,Track pants,-1.127819
+34,T-shirt,-1.4939824
+35,Tank top,0.12212972
+35,Chinos,0.026557382
+35,Track pants,-0.45639178
+35,Coat,-0.7503434
+35,Polo,-0.7984289
+35,Hoodie,-0.9170654
+35,Button-down shirt,-1.0290183
+35,Blazer,-1.610543
+35,Long-sleeve shirt,-1.9299079
+35,T-shirt,-2.2631888
+36,Windbreaker,2.5068903
+36,Coat,1.0992866
+36,Jeans,-0.11366488
+36,Cargo pants,-0.17592233
+36,Long-sleeve shirt,-0.29921192
+36,Track pants,-0.5286072
+36,Chinos,-0.74011505
+36,Joggers,-0.880857
+36,Hoodie,-1.781675
+36,Henley,-1.9275612
+37,Sweatshirt,1.5766622
+37,Long-sleeve shirt,-0.38323596
+37,Henley,-0.5334701
+37,Blazer,-0.59440154
+37,Tank top,-0.6741201
+37,T-shirt,-0.91861165
+37,Chinos,-0.97243375
+37,Cargo pants,-1.0675833
+37,Shorts,-1.4495919
+37,Track pants,-1.5943171
+38,Sweatshirt,0.2948743
+38,Long-sleeve shirt,-0.30257386
+38,Hoodie,-0.7824704
+38,Henley,-0.8559253
+38,Polo,-1.0356376
+38,Track pants,-1.2944654
+38,Jeans,-2.0911899
+38,Cargo pants,-2.0997314
+38,Button-down shirt,-2.3583815
+38,Chinos,-2.503909
+39,Cardigan,-0.2689495
+39,Shorts,-0.65916944
+39,Long-sleeve shirt,-0.8283
+39,Henley,-0.950808
+39,Track pants,-1.5681511
+39,Jeans,-2.5056996
+39,Sweatshirt,-3.3105292
+39,Hoodie,-3.632755
+39,Blazer,-4.2568293
+39,T-shirt,-4.2868247
+40,Track pants,0.78615177
+40,Windbreaker,0.3095032
+40,Cardigan,-0.046582304
+40,Jeans,-0.2717332
+40,Henley,-0.7227951
+40,Blazer,-0.78014624
+40,Shorts,-1.0914291
+40,Cargo pants,-1.1198754
+40,Chinos,-1.1796074
+40,Button-down shirt,-2.1632462
+41,Cargo pants,1.6448652
+41,Long-sleeve shirt,1.3817134
+41,Henley,1.2477067
+41,Sweatshirt,0.5324515
+41,Joggers,0.33456293
+41,Cardigan,0.0922501
+41,Chinos,-0.033901535
+41,Hoodie,-0.23953049
+41,Blazer,-0.3298335
+41,Polo,-0.8204076
+42,Hoodie,-0.47019514
+42,Henley,-0.5189657
+42,Joggers,-0.643507
+42,Windbreaker,-0.8199311
+42,Coat,-2.3816743
+42,Tank top,-2.58422
+42,Shorts,-2.9515185
+42,Cardigan,-3.017034
+42,Sweatshirt,-3.596277
+42,Blazer,-3.8056092
+43,Hoodie,0.43062556
+43,Henley,0.373469
+43,Sweatshirt,0.15058245
+43,Polo,-0.33782196
+43,Cardigan,-0.3408568
+43,Track pants,-1.3505477
+43,Joggers,-1.460563
+43,Button-down shirt,-1.4679879
+43,Windbreaker,-2.014321
+43,T-shirt,-3.8544254
+44,Polo,0.46887934
+44,Joggers,-0.4312431
+44,Long-sleeve shirt,-1.167748
+44,Coat,-1.4522352
+44,Jeans,-1.778885
+44,Button-down shirt,-1.7959416
+44,Hoodie,-1.9329548
+44,Blazer,-2.324274
+44,T-shirt,-4.4494786
+44,Henley,-5.1740823
+45,Polo,-1.0378952
+45,Track pants,-1.432508
+45,Button-down shirt,-1.8860431
+45,Sweatshirt,-1.9519836
+45,Tank top,-2.0241296
+45,Cardigan,-2.3636725
+45,Chinos,-2.5153382
+45,Shorts,-2.6612053
+45,Joggers,-2.8405504
+45,Cargo pants,-2.8584774
+46,Cargo pants,3.4135656
+46,Coat,2.263285
+46,Sweatshirt,1.8609716
+46,Joggers,1.7855382
+46,Jeans,1.7417725
+46,Long-sleeve shirt,1.1303016
+46,Track pants,0.1846343
+46,Blazer,0.17673239
+46,Polo,-0.2092121
+46,Button-down shirt,-1.7116288
+47,Coat,-0.021665135
+47,Blazer,-1.0288237
+47,Cardigan,-1.1201264
+47,Joggers,-1.7708662
+47,Cargo pants,-1.8207548
+47,Tank top,-1.9089483
+47,Track pants,-1.9452927
+47,Button-down shirt,-1.9647993
+47,Henley,-2.4558954
+47,Jeans,-2.8143842
+48,Cardigan,1.2266644
+48,Shorts,0.9604271
+48,T-shirt,0.8834277
+48,Henley,0.52732944
+48,Tank top,-0.8296552
+48,Cargo pants,-0.9636264
+48,Hoodie,-1.2335427
+48,Sweatshirt,-1.312784
+48,Button-down shirt,-1.5556209
+48,Chinos,-1.7330599
+49,Hoodie,1.312666
+49,Button-down shirt,0.33641502
+49,Cargo pants,0.25566196
+49,Sweatshirt,0.24125314
+49,Chinos,0.082521886
+49,Tank top,-0.066361636
+49,Polo,-0.22930521
+49,Windbreaker,-0.39832318
+49,T-shirt,-0.5259032
+49,Henley,-1.2341211
+50,Cardigan,1.1778929
+50,Chinos,0.66005564
+50,Button-down shirt,0.39868656
+50,Blazer,0.0031206608
+50,Shorts,-0.17077796
+50,Coat,-0.6679128
+50,Polo,-0.896607
+50,T-shirt,-0.902606
+50,Henley,-2.0694292
+50,Sweatshirt,-2.4534743
